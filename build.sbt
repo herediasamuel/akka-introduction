@@ -18,7 +18,7 @@ libraryDependencies ++= {
     "org.scalactic" %% "scalactic" % "3.0.1",
     "org.scalatest" %% "scalatest" % "3.0.1" % "test",
     "junit" % "junit" % "4.11" % "test",
-    "org.specs2" % "specs2-core_2.12" % "3.8.9" % "test",
+    "org.specs2" %% "specs2-core" % "4.0.0" % "test",
     "org.specs2" % "specs2-mock_2.12" % "3.8.9",
     "com.byteslounge" %% "slick-repo" % "1.4.3",
     "com.github.swagger-akka-http" %% "swagger-akka-http" % "0.11.0",
